@@ -1,1 +1,0 @@
-import{d as s,c as n,a as r,b as a,o as p,r as m}from"./index-7fc45747.js";const d={class:"home_index"},i=s({__name:"home",setup(e){return(_,o)=>{const t=m("router-view");return p(),n("div",d,[r(" home "),a(t)])}}});const l=(e,_)=>{const o=e.__vccOpts||e;for(const[t,c]of _)o[t]=c;return o},v=l(i,[["__scopeId","data-v-c7242885"]]);export{v as default};
